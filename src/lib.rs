@@ -22,7 +22,7 @@ impl Scrape {
         }
     }
 
-    pub fn scrape(&self, info_hash: [u8; 20]) -> Option<Result> {
+    pub fn get(&self, info_hash: [u8; 20]) -> Option<Result> {
         self.udp.as_ref()?;
         let mut t = Result::default();
         if let Some(ref u) = self.udp {
