@@ -1,5 +1,8 @@
 # btracker-scrape
 
+> [!WARNING]
+> Archived, use [btracker/scrape](https://github.com/YGGverse/btracker/tree/main/crates/scrape) instead.
+
 ![Build](https://github.com/YGGverse/btracker-scrape/actions/workflows/build.yml/badge.svg)
 [![Dependencies](https://deps.rs/repo/github/YGGverse/btracker-scrape/status.svg)](https://deps.rs/repo/github/YGGverse/btracker-scrape)
 [![crates.io](https://img.shields.io/crates/v/btracker-scrape.svg)](https://crates.io/crates/btracker-scrape)
